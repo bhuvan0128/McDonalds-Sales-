@@ -47,9 +47,6 @@ Focus on maintaining accurate and reliable data to generate trustworthy insights
 3. Regular Updates and Analysis
 Continuously update the dashboard to provide real-time insights and track sales trends over time.
 
-# Conclusion:
-
-The McDonald’s Sales Dashboard is an essential tool for understanding sales trends and optimizing operations. By providing comprehensive insights into sales performance, customer behavior, and time-based trends, this dashboard empowers McDonald’s to make informed decisions that drive growth and operational excellence.
 
 # EXECUTIVE SUMMARY
  FOR THE PERIOD SHOWN IN THE DASHBOARD, MCDONALD'S RECORDED A TOTAL REVENUE OF $61,626.29 BY SERVING 5,370 TABLES AND DELIVERING
